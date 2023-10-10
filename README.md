@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++     4 mins          █████████████████████▒░░░   85.03 %
+Java    0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
+XML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+CMake   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
