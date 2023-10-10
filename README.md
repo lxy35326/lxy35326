@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```txt
-C++     4 mins          █████████████████████▒░░░   85.03 %
-Java    0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-XML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-CMake   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```rust
+From: 10 August 2023 - To: 08 October 2023
+
+Total Time: 0 secs
+
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
