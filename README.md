@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 August 2023 - To: 10 October 2023
+From: 10 August 2023 - To: 11 October 2023
 
 Total Time: 8 mins
 
-C++     4 mins          █████████████░░░░░░░░░░░░   52.51 %
-Java    4 mins          ████████████░░░░░░░░░░░░░   47.38 %
-XML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+C++     4 mins          █████████████░░░░░░░░░░░░   52.36 %
+Java    4 mins          ████████████░░░░░░░░░░░░░   47.37 %
+XML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 CMake   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
