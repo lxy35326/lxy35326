@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 August 2023 - To: 08 November 2023
+From: 10 August 2023 - To: 09 November 2023
 
-Total Time: 13 hrs 22 mins
+Total Time: 14 hrs 34 mins
 
-Java             8 hrs 26 mins   ███████████████▓░░░░░░░░░   63.12 %
-C++              2 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
-C                1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-ObjectiveC       32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-XML              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Java             9 hrs 22 mins   ████████████████░░░░░░░░░   64.36 %
+C++              2 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   20.21 %
+C                1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+ObjectiveC       32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+XML              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Gradle           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Groovy           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
