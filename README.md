@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 August 2023 - To: 10 December 2023
+From: 10 August 2023 - To: 11 December 2023
 
-Total Time: 34 hrs 30 mins
+Total Time: 34 hrs 55 mins
 
-Java                   23 hrs 56 mins  █████████████████░░░░░░░░   68.26 %
-C                      3 hrs 54 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
-C++                    3 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-YAML                   1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-ObjectiveC             59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Other                  34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Java                   23 hrs 57 mins  ████████████████▓░░░░░░░░   66.72 %
+C                      3 hrs 54 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+C++                    3 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+YAML                   1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+ObjectiveC             59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Other                  58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
