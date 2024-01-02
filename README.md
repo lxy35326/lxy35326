@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 August 2023 - To: 30 December 2023
+From: 10 August 2023 - To: 31 December 2023
 
-Total Time: 44 hrs 22 mins
+Total Time: 44 hrs 38 mins
 
-Java                   27 hrs 52 mins  █████████████░░░░░░░░░░░░   52.32 %
-Other                  8 hrs 54 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
+Java                   27 hrs 52 mins  █████████████░░░░░░░░░░░░   52.06 %
+Other                  8 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
 ```
 
 <!--END_SECTION:waka-->
